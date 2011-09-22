@@ -1,0 +1,24 @@
+--------------------------------------------------------------------------------
+
+Jestrabot
+(c) 2007 Petr Nohejl
+
+Jestrabot je jednoduchý IRC bot s několika základními funkcemi. Řada navrhnutých
+funkcí dosud nebyla implementována.
+
+--------------------------------------------------------------------------------
+
+Instalace:
+
+Jestrabot je konzolová aplikace (spouští se v příkazovém řádku) a je napsána v
+jazyce Python 2.6. Pro její spuštění je třeba mít nainstalován interpret jazyka
+Python, který lze stáhnout na adrese: www.python.org. 
+
+--------------------------------------------------------------------------------
+
+Ovládání: 
+
+jestrab - spustí skript, nápovědu lze vyvolat v IRC klientu příkazem -help,
+          příklad použití: jestrab.py
+
+--------------------------------------------------------------------------------
